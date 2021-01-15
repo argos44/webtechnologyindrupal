@@ -22,7 +22,7 @@ https://www.drupal.org/docs/theming-drupal/twig-in-drupal/debugging-compiled-twi
 
 If you click on the webpage nameadress, the TWIG engine generates a HTML code from the PHP (server-side) code, and displays it to you. This can happen anytime you click on the page, or while you're reading it, not doing any interaction, or never.
 
-This is dependent on TWIG parameter coding, which is basically a security paramater, whicg tells the engine whether the template used is used by a trusted member, or it is someone else.
+This is dependent on TWIG parameter coding, which is basically a security paramater, which tells the engine whether the template used is used by a trusted member, or it is someone else.
 
 This is written here:
 
